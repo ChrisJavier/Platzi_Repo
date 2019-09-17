@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d979ce-0233-4f38-854a-c3e111f487ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogpost.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,7 +55,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566747882744</updated>
-      <workItem from="1566747883942" duration="1275000" />
+      <workItem from="1566747883942" duration="2540000" />
+      <workItem from="1566828498393" duration="19000" />
+      <workItem from="1567217972663" duration="399000" />
+      <workItem from="1567475364145" duration="14000" />
+      <workItem from="1568687185633" duration="858000" />
     </task>
     <servers />
   </component>
